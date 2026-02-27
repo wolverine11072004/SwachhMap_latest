@@ -1,4 +1,3 @@
-
 SwachhMap — reorganized project
 Files:
 - app.py         : Streamlit entrypoint
